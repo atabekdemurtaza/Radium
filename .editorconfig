@@ -1,0 +1,12 @@
+root = true
+
+[*.py]
+charset = utf-8
+indent_size = 4
+indent_style = space
+max_line_length = 119
+
+[*.json]
+charset = utf-8
+indent_size = 2
+indent_style = space

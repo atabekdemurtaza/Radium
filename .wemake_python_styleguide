@@ -1,0 +1,5 @@
+[tool.wemake_python_styleguide]
+i-control-code-complexity = true
+i-violations = true
+i-quality = true
+i-typing = true
